@@ -4,3 +4,4 @@
  ## Current Test/Projects
    1. OLED Display Test
    2. SD Card Interfacing Test
+   3. HC06 Bluetooth Module Test
